@@ -6,6 +6,9 @@ Broke ass geek cop tryna do nerd stuff...If you find my programs helpful or enjo
 
 # UnZippy
 
+
+### click on "releases" to download the .exe file
+
 ## Overview
 
 UnZippy is a standalone Windows executable application (.exe) built with Python, PyQt5, and packaged using PyInstaller. It is designed to extract archives (ZIP and 7Z formats) from a specified input folder or a single archive file, recursively handling nested archives within the extracted contents while maintaining the original folder structure and naming conventions. The program creates a dedicated output folder for each top-level archive, named after the archive file (without extension), and extracts nested archives into subfolders similarly named after them.
